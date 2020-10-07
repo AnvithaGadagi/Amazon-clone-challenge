@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Amazon-clone-challenge/static/css/main.ab489b3c.chunk.css",
+    "main.js": "/Amazon-clone-challenge/static/js/main.6694dae8.chunk.js",
+    "main.js.map": "/Amazon-clone-challenge/static/js/main.6694dae8.chunk.js.map",
+    "runtime-main.js": "/Amazon-clone-challenge/static/js/runtime-main.0ea288eb.js",
+    "runtime-main.js.map": "/Amazon-clone-challenge/static/js/runtime-main.0ea288eb.js.map",
+    "static/js/2.a8fc2162.chunk.js": "/Amazon-clone-challenge/static/js/2.a8fc2162.chunk.js",
+    "static/js/2.a8fc2162.chunk.js.map": "/Amazon-clone-challenge/static/js/2.a8fc2162.chunk.js.map",
+    "index.html": "/Amazon-clone-challenge/index.html",
+    "precache-manifest.f6ae0423ad9748f20e88121ce8f39bf8.js": "/Amazon-clone-challenge/precache-manifest.f6ae0423ad9748f20e88121ce8f39bf8.js",
+    "service-worker.js": "/Amazon-clone-challenge/service-worker.js",
+    "static/css/main.ab489b3c.chunk.css.map": "/Amazon-clone-challenge/static/css/main.ab489b3c.chunk.css.map",
+    "static/js/2.a8fc2162.chunk.js.LICENSE.txt": "/Amazon-clone-challenge/static/js/2.a8fc2162.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ea288eb.js",
+    "static/js/2.a8fc2162.chunk.js",
+    "static/css/main.ab489b3c.chunk.css",
+    "static/js/main.6694dae8.chunk.js"
+  ]
+}
